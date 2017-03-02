@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="month_1">#FD8E09</color>
+
+    <!-- Background color for the family members category -->
+    <color name="month_2">#379237</color>
+
+    <!-- Background color for the colors category -->
+    <color name="month_3">#8800A0</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="month_4">#16AFCA</color>
+    <color name="week_1_background">#DEB887</color>
+</resources>
