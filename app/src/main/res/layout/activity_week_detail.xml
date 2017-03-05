@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.mayankgupta.pregnancy.WeekDetailActivity">
+    tools:context="com.punbook.mayankgupta.pregnancy.WeekDetailActivity">
 
 
     <ImageView
@@ -13,7 +13,7 @@
 
         android:layout_height="200dp"
         android:layout_width="match_parent"
-        android:background="@color/week_1_background"
+
 
         android:scaleType="fitCenter"
 
